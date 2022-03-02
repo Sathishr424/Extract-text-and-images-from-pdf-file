@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8">
+    <title>PDFtoHTMLForm</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <style type="text/css">
+      
+    </style>
+  </head>
+  <body>
+    <div id='header'>
+      <h2>PDF extraction</h2>
+      <form name='submit_pdf' class='myBtn' style="display: block;" enctype="multipart/form-data" method="POST" action="/extract_pdf">
+        <label for='pdf'>Open PDF</label>
+        <input type="file" name="pdf" id='pdf' style="display:none" onchange="openPdf()">
+        <!-- <input style="display: none;" id='submit_pdf' type="submit" name="submit"> -->
+      </form>
+    </div>
+    <div id='loadingScreen' style="display: none">
+      <div class="spinner-loader"></div>
+    </div>
+    <footer>
+      <div>designed and coded by <a href="https://instagram.com/sat_ig462/" target="_blank">Sat_ig462</a></div>
+      ©2022 Sathish462 
+    </footer>
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"
+        integrity="sha256-gvQgAFzTH6trSrAWoH1iPo9Xc96QxSZ3feW6kem+O00="
+        crossorigin="anonymous"></script>
+    <script type="text/javascript">
+      
+
+      function openPdf(){
+        var file = document.getElementById('pdf').files[0];
+        console.log(document.getElementById('pdf').files[0]);
+
+        document.getElementById('loadingScreen').style.display = 'flex';
+
+        document.submit_pdf.submit();
+
+      }
+      
+    </script>
+  </body>
+</html>
