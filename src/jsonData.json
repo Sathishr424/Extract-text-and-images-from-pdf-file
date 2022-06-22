@@ -1,0 +1,183 @@
+{
+  "image": [
+    {
+      "name": "Img1",
+      "path": "/home/sathish/Documents/Personal Projects/Extract text and images from pdf file/src/Images/Img1.png",
+      "page": 1,
+      "x": 0,
+      "y": 0,
+      "width": 459,
+      "height": 594
+    }
+  ],
+  "text": [
+    {
+      "str": "Market Statistics",
+      "page": 1,
+      "x": 81.75,
+      "y": 493.44332229825,
+      "width": 129.9190077135,
+      "height": 18.281078250000007
+    },
+    {
+      "str": "Sales in Mill",
+      "page": 1,
+      "x": 338.8125,
+      "y": 443.553722269125,
+      "width": 45.55339113656248,
+      "height": 9.71245912500001
+    },
+    {
+      "str": "120",
+      "page": 1,
+      "x": 29.625,
+      "y": 452.9591589598125,
+      "width": 9.360136985062496,
+      "height": 5.662514812499978
+    },
+    {
+      "str": "100",
+      "page": 1,
+      "x": 29.8125,
+      "y": 418.8610465494375,
+      "width": 9.174173865187505,
+      "height": 5.5500144375000104
+    },
+    {
+      "str": "80",
+      "page": 1,
+      "x": 32.25,
+      "y": 384.6016091390625,
+      "width": 6.735990496875004,
+      "height": 6.112514062499997
+    },
+    {
+      "str": "51",
+      "page": 1,
+      "x": 33.0,
+      "y": 350.450434183875,
+      "width": 5.992140290250006,
+      "height": 5.437513874999979
+    },
+    {
+      "str": "84 -",
+      "page": 1,
+      "x": 33.0,
+      "y": 316.137934183875,
+      "width": 11.058002734560816,
+      "height": 5.437513874999979
+    },
+    {
+      "str": "20 -",
+      "page": 1,
+      "x": 33.0,
+      "y": 282.012934183875,
+      "width": 11.058002734560816,
+      "height": 5.437513874999979
+    },
+    {
+      "str": "Facilities Per State",
+      "page": 1,
+      "x": 47.8125,
+      "y": 215.4475931911875,
+      "width": 69.896721040875,
+      "height": 8.587476187499988
+    },
+    {
+      "str": "The concentration of facilities does not necessarily correlate with the",
+      "page": 1,
+      "x": 81.0,
+      "y": 167.17495074075,
+      "width": 272.04840618562497,
+      "height": 10.845248718187491
+    },
+    {
+      "str": "potential size of the market for adhesives or lubricants. As illustrated by",
+      "page": 1,
+      "x": 81.1875,
+      "y": 156.76905555675,
+      "width": 285.7451750295,
+      "height": 11.038523725312501
+    },
+    {
+      "str": "the above chart Illinois has the largest number of wood flooring",
+      "page": 1,
+      "x": 81.1875,
+      "y": 146.4207060945,
+      "width": 249.496886856,
+      "height": 10.876622787749994
+    },
+    {
+      "str": "manufacturers and the produces the largest volume of wood flooring. but",
+      "page": 1,
+      "x": 81.375,
+      "y": 136.3046684600625,
+      "width": 288.72837697575,
+      "height": 10.292900918625008
+    },
+    {
+      "str": "West Virginia is the second largest producer with only five very large",
+      "page": 1,
+      "x": 81.0,
+      "y": 125.96976252375,
+      "width": 271.857658692,
+      "height": 10.743362934000004
+    },
+    {
+      "str": "manufacturers (one of which you already control from both lubrication and",
+      "page": 1,
+      "x": 81.375,
+      "y": 115.4921684600625,
+      "width": 293.03231031225,
+      "height": 10.264363846687502
+    },
+    {
+      "str": "adhesive products). Compare West Virginia to its neighbor Ohio (27\") that",
+      "page": 1,
+      "x": 81.1875,
+      "y": 105.1214131063125,
+      "width": 294.9307895428125,
+      "height": 10.779212351437494
+    },
+    {
+      "str": "has 6 Manufacturers but only 4.5 million in sales volume. To maximize",
+      "page": 1,
+      "x": 81.5625,
+      "y": 94.9478297053125,
+      "width": 278.942122885875,
+      "height": 10.8991383609375
+    },
+    {
+      "str": "sales and marketing efficiencies a careful plan will need to be developed",
+      "page": 1,
+      "x": 81.0,
+      "y": 84.5949990826875,
+      "width": 287.7960602896875,
+      "height": 10.809043127437505
+    },
+    {
+      "str": "using multiple avenues to aggressively go after the business.",
+      "page": 1,
+      "x": 81.375,
+      "y": 74.12565770775,
+      "width": 241.626183783,
+      "height": 10.550087926875008
+    },
+    {
+      "str": "\u00a9 2008 David Strader. SIG - No reproduction without written authorization",
+      "page": 1,
+      "x": 81.0,
+      "y": 34.0572713701875,
+      "width": 204.84541647431246,
+      "height": 9.399020440125
+    },
+    {
+      "str": "16",
+      "page": 1,
+      "x": 371.8125,
+      "y": 26.972602754625,
+      "width": 6.178103616750036,
+      "height": 5.6062646250000014
+    }
+  ]
+}

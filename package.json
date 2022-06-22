@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npx nodemon server.js",
+    "start": "npx nodemon pdfextract.js",
     "kill": "npx kill-port 4000"
   },
   "dependencies": {
@@ -13,7 +13,9 @@
     "express": "^4.14.0",
     "mongoose": "^6.1.1",
     "multer": "^1.4.4",
+    "pdf-parse": "^1.1.1",
     "pdf2json": "^2.0.0",
+    "pdfreader": "^1.2.14",
     "python-shell": "^3.0.1"
   },
   "keywords": [],
